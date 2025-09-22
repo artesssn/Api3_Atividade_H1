@@ -1,0 +1,6 @@
+@Lista_Validação_de_dados_HostAddress = http://localhost:5003
+
+GET {{Lista_Validação_de_dados_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

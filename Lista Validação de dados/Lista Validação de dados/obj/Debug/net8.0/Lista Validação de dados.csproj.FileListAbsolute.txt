@@ -1,0 +1,8 @@
+C:\Users\PICHAU\OneDrive\Área de Trabalho\H1atividadeApi\Lista Validação de dados\Lista Validação de dados\obj\Debug\net8.0\Lista Validação de dados.csproj.AssemblyReference.cache
+C:\Users\PICHAU\OneDrive\Área de Trabalho\H1atividadeApi\Lista Validação de dados\Lista Validação de dados\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PICHAU\OneDrive\Área de Trabalho\H1atividadeApi\Lista Validação de dados\Lista Validação de dados\obj\Debug\net8.0\Lista Validação de dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\OneDrive\Área de Trabalho\H1atividadeApi\Lista Validação de dados\Lista Validação de dados\obj\Debug\net8.0\Lista Validação de dados.AssemblyInfoInputs.cache
+C:\Users\PICHAU\OneDrive\Área de Trabalho\H1atividadeApi\Lista Validação de dados\Lista Validação de dados\obj\Debug\net8.0\Lista Validação de dados.AssemblyInfo.cs
+C:\Users\PICHAU\OneDrive\Área de Trabalho\H1atividadeApi\Lista Validação de dados\Lista Validação de dados\obj\Debug\net8.0\Lista Validação de dados.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\OneDrive\Área de Trabalho\H1atividadeApi\Lista Validação de dados\Lista Validação de dados\obj\Debug\net8.0\Lista Validação de dados.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PICHAU\OneDrive\Área de Trabalho\H1atividadeApi\Lista Validação de dados\Lista Validação de dados\obj\Debug\net8.0\Lista Validação de dados.MvcApplicationPartsAssemblyInfo.cache
