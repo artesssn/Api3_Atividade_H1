@@ -1,8 +1,5 @@
 ﻿namespace Lista_Validação_de_dados.Controllers
 {
-    using EscolaApi.DTOs;
-    using EscolaApi.Models;
-    using EscolaApi.Persistence;
     using Lista_Validação_de_dados.DTOs;
     using Lista_Validação_de_dados.Models;
     using Lista_Validação_de_dados.Persistence;
@@ -80,3 +77,4 @@
     }
 }
 }
+
