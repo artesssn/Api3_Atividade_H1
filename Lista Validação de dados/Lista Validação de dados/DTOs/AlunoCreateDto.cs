@@ -1,7 +1,7 @@
 ﻿namespace Lista_Validação_de_dados.DTOs
 {
     using System.ComponentModel.DataAnnotations;
-    using EscolaApi.Validation;
+    using Lista_Validação_de_dados.Validation;
     public class AlunoCreateDto
     {
         [Required(ErrorMessage = "Nome Obrigatorio")]
@@ -34,3 +34,4 @@
 
     }
 }
+
