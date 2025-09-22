@@ -1,7 +1,6 @@
 ﻿namespace Lista_Validação_de_dados.Persistence
 {
     using System.Collections.Generic;
-    using EscolaApi.Models;
     using Lista_Validação_de_dados.Models;
 
     public interface IAlunoRepository
@@ -13,3 +12,4 @@
         bool Remove(string ra);
     }
 }
+
